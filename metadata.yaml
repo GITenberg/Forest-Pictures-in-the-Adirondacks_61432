@@ -1,0 +1,35 @@
+_repo: Forest-Pictures-in-the-Adirondacks_61432
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hows, John Augustus
+    aliases:
+    - Hows, John A.
+    - Hows, J. A. (John Augustus)
+    birthdate: 1832
+    deathdate: 1874
+    gutenberg_agent_id: '43311'
+    url: http://www.gutenberg.org/2009/agents/43311
+creator:
+  author:
+    agent_name: Street, Alfred Billings
+    deathdate: 1881
+    gutenberg_agent_id: '51424'
+    url: http://www.gutenberg.org/2009/agents/51424
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Billings_Street
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61432'
+  lccn: '31002632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Poetry'
+- GITenberg
+title: Forest Pictures in the Adirondacks
+url: http://www.gutenberg.org/ebooks/61432
